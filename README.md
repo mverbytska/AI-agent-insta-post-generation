@@ -5,4 +5,4 @@
 ![Example](demo-example.jpeg)
 
 ### Tools and techniques:
-Zephyr-7b-beta model, torch, gradio 
+Zephyr-7b-beta model (a fine-tuned version of Mistral-7B-v0.1), torch, gradio 
