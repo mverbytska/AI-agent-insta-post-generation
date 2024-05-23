@@ -1,12 +1,6 @@
 # AI agent for Instagram post-generation
 ### [Link to the chosen HF model](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2)
 
-### Demo example:
-![Example](demo-example.png)
-
-### Tools and techniques:
-Mistral-7B-v0.2 text-generation model, Apify, torch, gradio 
-
 ### To launch UI and test locally: 
 1. Login to your [Hugging Face](https://huggingface.co/) profile
 2. Go to Settings/Access Tokens/New token
@@ -18,3 +12,9 @@ Mistral-7B-v0.2 text-generation model, Apify, torch, gradio
 8. Go to Runtime/Change runtime type, and choose the **T4 GPU** option there
 9. Go to Files/Upload to session storage, and upload the scraped Instagram data there
 10. Run the notebook and keep calm: it may take some time:)
+
+### Demo example:
+![Example](demo-example.png)
+
+### Tools and techniques:
+Mistral-7B-v0.2 text-generation model, Apify, torch, gradio 
