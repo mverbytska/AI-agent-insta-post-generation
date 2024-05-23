@@ -2,7 +2,7 @@
 ### [Link to the chosen HF model](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2)
 
 ### To launch UI and test locally: 
-1. Login to your [Hugging Face](https://huggingface.co/) profile
+1. Log in to your [Hugging Face](https://huggingface.co/) profile
 2. Go to *Settings/Access Tokens/New token*
 3. Generate a new token with some name of type **Read** and !save! it somewhere
 4. Open this notebook in Google Colab
