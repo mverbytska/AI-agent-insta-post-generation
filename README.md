@@ -1,5 +1,5 @@
 # AI agent for Instagram post-generation
-### [Link to the chosen HF model](https://huggingface.co/HuggingFaceH4/zephyr-7b-beta)
+### [Link to the chosen HF model](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2)
 
 ### Demo example:
 ![Example](demo-example.png)
